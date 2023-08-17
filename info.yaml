@@ -21,12 +21,16 @@ yaml_version: 4
 #
 # Here is a great example: https://github.com/davidsiaw/tt02-davidsiaw-stackcalc/blob/38c5647f83aad2aec675d566aa3d67b98f0aac81/info.yaml
 documentation: 
-  author:       ""      # Your name
-  title:        ""      # Project title
+
+  author:       "Tiny Tapeout 02 (J. Rosenthal)"      # Your name
+  title:        "Padlock"
+  discord:      "jamesr#0350"      # Your discord handle - make sure to include the # part as well
+  title:        "7-Seg 'Tiny Tapeout' Display"      # Project title
+  picture:      ""
+  language:     "Wokwi" # other examples include Verilog, Amaranth, VHDL, etc
+  doc_link:     "https://wokwi.com/projects/347497504164545108"      # URL to longer form documentation, eg the README.md in your repository
   language:     "Wokwi" # other examples include Verilog, Amaranth, VHDL, etc
   description:  "Set a code for your precious safe"      # Short description of what your project does
-
-# Longer description of how the project works. You can use standard markdown format.
   how_it_works: |
     Set a code for your precious safe!
     **Controls**
