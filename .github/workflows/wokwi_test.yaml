@@ -27,9 +27,9 @@ jobs:
     - name: checkout tt tools repo
       uses: actions/checkout@v3
       with:
-        repository: tinytapeout/tt-support-tools
+        repository: psychogenic/tt-support-tools
         path: tt
-        ref: tt03p5
+        ref: tt04
 
     # need python and requirements
     - name: setup python
