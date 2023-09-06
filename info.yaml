@@ -28,7 +28,6 @@ documentation:
   picture:      ""
   language:     "Wokwi" # other examples include Verilog, Amaranth, VHDL, etc
   doc_link:     "https://wokwi.com/projects/347417602591556180"      # URL to longer form documentation, eg the README.md in your repository
-  language:     "Wokwi" # other examples include Verilog, Amaranth, VHDL, etc
   description:  "Set a code for your precious safe"      # Short description of what your project does
   how_it_works: |
     Set a code for your precious safe!
